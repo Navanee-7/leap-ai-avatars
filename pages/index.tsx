@@ -493,13 +493,13 @@ const Home = () => {
                 Leap API
               </Link>{" "}
               by{" "}
-              <Link target="_blank" href="https://twitter.com/thealexshaq">
-                alex
+              <Link target="_blank" href="https://github.com/Navanee-7">
+                NK
               </Link>
               . Create your own AI Avatars app{" "}
               <Link
                 target="_blank"
-                href="https://github.com/alexschachne/leap-ai-avatars"
+                href="https://github.com/Navanee-7/leap-ai-avatars"
                 textDecoration={"underline"}
               >
                 here

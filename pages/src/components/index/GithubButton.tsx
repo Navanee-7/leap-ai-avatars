@@ -16,7 +16,7 @@ const GithubButton = () => {
       top={0}
       right={4}
       onClick={() =>
-        window.open("https://github.com/alexschachne/leap-ai-avatars")
+        window.open("https://github.com/Navanee-7/leap-ai-avatars")
       }
     >
       <AiFillGithub color="black" />

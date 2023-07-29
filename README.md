@@ -36,4 +36,4 @@ This is huge! You've got an AI Avatars app running on the web, and you can share
 
 if you got value from this -- plz give us a star 🙂⭐
 
-built w/ ❤️ by [alex](https://twitter.com/thealexshaq) with [Leap AI](https://tryleap.ai)
+built w/ ❤️ by NK with [Leap AI](https://tryleap.ai)
